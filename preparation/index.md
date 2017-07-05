@@ -14,6 +14,8 @@
 - 交流管道：以 Slack 為主
   - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
 
+- 編輯器：以 Visual Studio Code 為主
+  - VS CODE 下載：[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 
 ### 共同筆記
 
@@ -24,7 +26,7 @@
 
 ### 學員分組與期末競賽
 
-`能夠與他人共同協作`是 HelloJS 訓練營的一大宗旨，所以我們由第一堂課開始即會要求各位學員分組，而每次作業會視情況需要以分組或個人方式繳交。
+`能夠與他人共同協作`是 HelloJS 訓練營的一大宗旨，所以我們由第一堂課開始即會要求各位學員分組，同時需要完成填寫分組表單。而每次作業會視情況需要以分組或個人方式繳交。
 
 `期末競賽`則是 HelloJS 訓練營的特色，我們會在期末（第八週）時舉辦成果博覽會，邀請業界專家評比學員成果，優勝者可獲得獎金與獎狀。
 
@@ -32,6 +34,7 @@
 
 #### 分組條件：
 - 三個人一組，每組人數視情況調整。
+- 分組表單：[點我前往填寫]()
 
 #### 競賽條件：
  - 僅限使用由 HelloJS 所學習之技術設計一套包含但不限於平台、服務、網站或 APP。
