@@ -11,5 +11,6 @@
 - [GIT 101](https://hellojs-tw.github.io/git-101/)
 
 ## 本週共筆
-- [Week-5 hackMD]()
+- [如何撰寫共筆？](./NOTEPAD.md)
+- [Week-5 hackMD](https://hackmd.io/s/B11qOgc4-)
 
