@@ -13,7 +13,10 @@
 
 ## 與我們聯絡
 - 官方網站：[HelloJS](https://hellojs.school)
-- 主辦單位：[Trunk-Studio](https://trunk.studio)
-- 部 落 格：[Trunk-Studio BLOG](https://trunk.studio/blog)
-- 粉絲專頁：[Trunk-Studio](https://www.facebook.com/trunk.studio.tw/)
 - 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
+- Slack 入口：
+
+## 主辦單位
+- [Trunk-Studio](https://trunk.studio)
+- [Trunk-Studio BLOG](https://trunk.studio/blog)
+- [Facebook FanPage](https://www.facebook.com/trunk.studio.tw/)
