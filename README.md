@@ -17,7 +17,7 @@
 - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
 
 ## 與我們聯絡
-- 官方網站：[HelloJS](https://hellojs.school)
+- 官方網站：[HelloJS School](https://hellojs.school)
 - 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
 
 ### 主辦單位
