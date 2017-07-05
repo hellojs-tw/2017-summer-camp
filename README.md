@@ -9,9 +9,9 @@
 - [Week 6](./week6)
 - [Week 7](./week7)
 - [Week 8](./week8)
+- [活動共筆](./NOTEPAD.md)
 
 ## 討論
-- [活動共筆](./NOTEPAD.md)
 - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
 
 ## 與我們聯絡
@@ -19,6 +19,6 @@
 - 連絡信箱：[tutor@hellojs.school](mailto:tutor@hellojs.school)
 
 ## 主辦單位
-- [Trunk-Studio](https://trunk.studio)
-- [BLOG](https://trunk.studio/blog)
+- [Trunk-Studio](https://trunk-studio.com)
+- [BLOG](https://trunk-studio.com/blog)
 - [Facebook Page](https://www.facebook.com/trunk.studio.tw/)
