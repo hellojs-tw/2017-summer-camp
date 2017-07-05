@@ -3,6 +3,7 @@
 這邊是 HelloJS 訓練營每週的共筆搜集目錄。
 
 ## 目錄
+- [回目錄](../)
 - [Week-1 hackMD](https://hackmd.io/s/r1Qzre9Vb)
 - [Week-2 hackMD](https://hackmd.io/s/r1qiHlq4b)
 - [Week-3 hackMD](https://hackmd.io/s/r1ebUe9NW)
