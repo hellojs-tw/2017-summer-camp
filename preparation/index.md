@@ -8,9 +8,10 @@
 ## 課程須知
 
 - 上課時間：週四下午 1:00 ~ 5:00 （每次上課 4 小時）
-  - 因場地限制，我們將於最晚下午 5:00 清場；如果有課程問題歡迎隨時 SLACK 線上詢問，我們會有夥伴儘速回答 :)
+  - 因場地限制，今年度沒辦法讓各位學員留下來現場提問
+  - 如果有問題歡迎隨時使用 HelloJS Slack 線上詢問，我們會有夥伴儘速回答 :)
 
-- 交流管道：以 SLACK 為主
+- 交流管道：以 Slack 為主
   - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
 
 
@@ -40,5 +41,5 @@
 HelloJS 訓練營需要各位學員事先準備好一些常用服務之帳號，以便順利與其他夥伴交流與協作，例如：`Github`、`Slack` ... 等等。
 
 ### 帳號申請
-- Github：
-- HelloJS Slack：
+- Github：[https://github.com](https://github.com)
+- HelloJS Slack：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
