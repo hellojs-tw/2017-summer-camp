@@ -5,6 +5,8 @@
 ## 目錄
 - [回目錄](../)
 
+***
+
 ## 課程須知
 
 - 上課時間：週四下午 1:00 ~ 5:00 （每次上課 4 小時）
@@ -40,6 +42,7 @@
  - 僅限使用由 HelloJS 所學習之技術設計一套包含但不限於平台、服務、網站或 APP。
  - 需最晚在第八週上傳原始碼到 HelloJS 的官方 [Github Organization](https://github.com/hellojs-tw) 進行公開。
 
+***
 
 ## 行前準備
 
@@ -48,3 +51,10 @@ HelloJS 訓練營需要各位學員事先準備好一些常用服務之帳號，
 ### 帳號申請
 - Github：[https://github.com](https://github.com)
 - HelloJS Slack：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
+
+### 下載工具
+- VirtualBox：[https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)
+- VS CODE：[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
+- SourceTree：[https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
+- Slack：[https://slack.com/downloads/osx](https://slack.com/downloads/osx)
+  - 或使用 Franz 取代：[http://meetfranz.com/](http://meetfranz.com/)
