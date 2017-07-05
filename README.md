@@ -12,8 +12,8 @@
 - [Week 8](./week8)
 
 ## 筆記與心得
-- [活動共筆搜集](./NOTEPAD.md)
-- [訓練心得搜集](./REVIEW.md)
+- [共同筆記目錄](./NOTEPAD.md)
+- [訓練心得目錄](./REVIEW.md)
 
 ## 討論
 - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
