@@ -1,14 +1,14 @@
-# HelloJS 2017 Summer Camp
+# HelloJS 2017 Summer Camp 教材目錄
 
 ## 目錄
-- [Week-1](./week-1)
-- [Week-2](./week-2)
-- [Week-3](./week-3)
-- [Week-4](./week-4)
-- [Week-5](./week-5)
-- [Week-6](./week-6)
-- [Week-7](./week-7)
-- [Week-8](./week-8)
+- [Week 1](./week1)
+- [Week 2](./week2)
+- [Week 3](./week3)
+- [Week 4](./week4)
+- [Week 5](./week5)
+- [Week 6](./week6)
+- [Week 7](./week7)
+- [Week 8](./week8)
 - [活動共筆](./NOTEPAD.md)
 
 ## 與我們聯絡
