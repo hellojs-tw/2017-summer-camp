@@ -1,4 +1,4 @@
-# HelloJS Summer Camp 2017 教材目錄
+# 2017 HelloJS Summer Camp 教材目錄
 
 ## 目錄
 - [行前準備與課程須知](./preparation)
