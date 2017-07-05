@@ -14,6 +14,8 @@
 
 ## 如何撰寫共筆
 
+共同筆記需要使用 `Markdown` 標記語言完成撰寫，該語言語法簡單易於上手，詳細請參考 [Markdown.tw](http://markdown.tw/)。
+
 開啟共筆後會導向 `HackMD` 服務，點選下圖中之`筆`圖案即可。
 ![](./img/hackmd-2.png)
 
