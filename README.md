@@ -10,6 +10,8 @@
 - [Week 6](./week6)
 - [Week 7](./week7)
 - [Week 8](./week8)
+
+## 筆記與心得
 - [活動共筆搜集](./NOTEPAD.md)
 - [訓練心得搜集](./NOTEPAD.md)
 
