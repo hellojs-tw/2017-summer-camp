@@ -1,4 +1,4 @@
-# 2017 HelloJS Summer Camp Week 2
+# HelloJS Summer Camp 2017 Week 2
 
 ## 目錄
 - [回目錄](../)
