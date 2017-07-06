@@ -36,7 +36,7 @@
 
 #### 分組條件：
 - 三個人一組，每組人數視情況調整。
-- 分組表單：[點我前往填寫](https://docs.google.com/a/trunk-studio.com/forms/d/e/1FAIpQLSe-WF9km9aPDc3F9JdCVG59mP9XE-A-JCE8NFSGR2t7kxcptQ/viewform)
+- 分組表單：[點我前往填寫](https://goo.gl/forms/KM4veiiV3zPoIPKh1)
 
 #### 競賽條件：
  - 僅限使用由 HelloJS 所學習之技術設計一套包含但不限於平台、服務、網站或 APP。
