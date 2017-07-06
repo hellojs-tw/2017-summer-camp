@@ -8,6 +8,7 @@
 
 ## 教材目錄
 - [Slack 入門](https://hellojs-tw.github.io/get-slack/)
+- [HelloJS VM 使用說明](https://hellojs-tw.github.io/HelloJS-vm/)
 - [git 101](https://hellojs-tw.github.io/git-101/)
 
 ## 本週共筆
