@@ -16,7 +16,7 @@
   - 如果有問題歡迎隨時使用 HelloJS Slack 線上詢問，我們會有夥伴儘速回答 :)
 
 - 交流管道：以 Slack 為主
-  - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
+  - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/t/hellojs-tw/shared_invite/MjEyNDUyMTU4OTgzLTE0OTk4NTU5MzgtYTI5MDA1NzUxZg)
 
 - 編輯器：以 Visual Studio Code 為主
   - VS CODE 下載：[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
@@ -52,7 +52,7 @@ HelloJS 訓練營需要各位學員事先準備好一些常用服務之帳號，
 
 ### 帳號申請
 - Github：[https://github.com](https://github.com)
-- HelloJS Slack：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
+- HelloJS Slack：[hellojs-tw@Slack](https://join.slack.com/t/hellojs-tw/shared_invite/MjEyNDUyMTU4OTgzLTE0OTk4NTU5MzgtYTI5MDA1NzUxZg)
 
 ### 下載工具
 - VirtualBox：[https://www.virtualbox.org/wiki/Downloads](https://www.virtualbox.org/wiki/Downloads)

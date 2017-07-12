@@ -18,7 +18,7 @@
 - [訓練心得目錄](./REVIEW.md)
 
 ## 討論
-- Slack 入口：[hellojs-tw@Slack](https://join.slack.com/hellojs-tw/shared_invite/MjA3MTkxMzcwMDgxLTE0OTkxODY0ODgtMmFiNzcwZjI4Mw)
+- Slack 入口：[hellojs-tw@Slack](https://join.slack.com/t/hellojs-tw/shared_invite/MjEyNDUyMTU4OTgzLTE0OTk4NTU5MzgtYTI5MDA1NzUxZg)
 
 ## 與我們聯絡
 - 官方網站：[HelloJS School](https://hellojs.school)
