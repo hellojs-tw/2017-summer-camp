@@ -1,5 +1,7 @@
 # HelloJS Summer Camp 共同筆記
 
+![](/img/hellojs.png)
+
 這邊是 HelloJS 訓練營每週的共筆搜集目錄。
 
 ## 目錄
