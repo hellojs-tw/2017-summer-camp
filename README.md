@@ -1,5 +1,7 @@
 # 2017 HelloJS Summer Camp 教材目錄
 
+![](/img/hellojs.png)
+
 ## 目錄
 - [行前準備與課程須知](./preparation)
 - [Week 1](./week1)

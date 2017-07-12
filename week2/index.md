@@ -1,5 +1,7 @@
 # 2017 HelloJS Summer Camp Week 2
 
+![](/img/hellojs.png)
+
 ## 目錄
 - [回目錄](../)
 
