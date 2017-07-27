@@ -20,6 +20,9 @@
 - [共同筆記目錄](./NOTEPAD.md)
 - [訓練心得目錄](./REVIEW.md)
 
+## 期末專案
+- [期末專案方向參考與小組名單](./project)
+
 ## 討論
 - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/t/hellojs-tw/shared_invite/MjEyNDUyMTU4OTgzLTE0OTk4NTU5MzgtYTI5MDA1NzUxZg)
 
