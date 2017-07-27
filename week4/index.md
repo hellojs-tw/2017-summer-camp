@@ -8,6 +8,7 @@
 
 ## 教材目錄
 - [Javascript 進階](https://alincode.gitbooks.io/hellojs2-gitbook/js/es6/promise.html)
+- [Part2 簡報](https://www.dropbox.com/s/xgso4m91ppwbfx5/20170727_es6_webintro.pdf?dl=0)
 
 ## 本週作業 Repo
 - [webpack-starter-todo](https://github.com/hellojs-tw/webpack-starter-todo)
