@@ -9,6 +9,10 @@
 ## 教材目錄
 - [Javascript 進階](https://alincode.gitbooks.io/hellojs2-gitbook/js/es6/promise.html)
 
+## 本週作業 Repo
+- [webpack-starter-todo](https://github.com/hellojs-tw/webpack-starter-todo)
+- [js-201-practice](https://github.com/hellojs-tw/js-201-practice)
+
 ## 本週共筆
 - [如何撰寫共筆？](../NOTEPAD.md)
 - [Week-4 hackMD](https://hackmd.io/s/S1q7Llc4-)

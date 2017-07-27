@@ -11,6 +11,9 @@
 ## 教材目錄
 - [HelloJS Gitbook Week2](https://alincode.gitbooks.io/hellojs2-gitbook/content/)
 
+## 本週作業 Repo
+- [js-101-practice](https://github.com/hellojs-tw/js-101-practice)
+
 ## 本週 VM
 - [HelloJS VM 使用說明](https://hellojs-tw.github.io/HelloJS-vm/)
 - [下載點 1](http://gofile.me/3sM7m/TTuD1o2Aj)
