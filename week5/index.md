@@ -4,7 +4,7 @@
 - [回目錄](../)
 
 ## 本週大綱
-React 入門
+React 入門！
 
 ## 教材目錄
 - [簡報](https://slides.com/tz5514/hellojs-reactjs)
