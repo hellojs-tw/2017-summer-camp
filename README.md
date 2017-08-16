@@ -9,7 +9,7 @@
 - [Week 3](./week3)
 - [Week 4](./week4)
 - [Week 5](./week5)
-- [Week 6（尚未開放）](./#!)
+- [Week 6](./week6)
 - [Week 7（尚未開放）](./#!)
 - [Week 8（尚未開放）](./#!)
 
