@@ -10,7 +10,7 @@
 - [Week 4](./week4)
 - [Week 5](./week5)
 - [Week 6](./week6)
-- [Week 7（尚未開放）](./#!)
+- [Week 7](./week7)
 - [Week 8（尚未開放）](./#!)
 
 ## VM 目錄

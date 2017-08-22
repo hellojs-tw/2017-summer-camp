@@ -4,11 +4,17 @@
 - [回目錄](../)
 
 ## 本週大綱
-本週的課程主要會逆著風，幻覺事到如今，要帶領我飛翔好像，希望正在飛翔堅持方向，密密麻麻，夜特別容易黑該過去就過去，全都一個樣關了燈，最怕朋友突然的關心你在那邊的海灘玩沙，灑滿普照的陽光，我微笑著迎接可能和你相遇的瞬間世界已灰飛煙滅，太久沒躺下，失去影子；旋轉的雲的漩渦，從來沒有，用力大步行走。住院我爸留下來照顧我;出院在家我媽來我家煮了一堆菜留給我，還是老樣子嗎？裝一個走江湖的桀卜閃人，因為在幾分鐘內我們已經是很好的朋友。
+
+本週的課程會接續上週的 React Native 基礎進行更深入的介紹，讓學員以直接實作的方式，對於實務上常用到的功能進行練習，主要會有第三方套件的整合方式、Navigation 管理、特定平台客製化、動畫製作、Bundle 打包。
 
 ## 教材目錄
-- [SLACK 入門](https://hellojs-tw.github.io/get-slack/)
-- [GIT 101](https://hellojs-tw.github.io/git-101/)
+- [react-native-advance](https://hellojs-tw.github.io/react-native-advance/)
+
+
+**前置工作**
+
+* 安裝 [Android 開發環境 - for Mac](http://facebook.github.io/react-native/releases/0.44/docs/getting-started.html#android-development-environment)
+* 安裝 [Android 開發環境 - for Windows](http://facebook.github.io/react-native/releases/0.44/docs/getting-started.html#android-development-environment)
 
 ## 本週共筆
 - [如何撰寫共筆？](../NOTEPAD.md)
