@@ -22,6 +22,8 @@
 
 ## 期末專案
 - [期末專案方向參考與小組名單](./project)
+- [HelloJS 模板](.project/template.md)
+- [專題競賽&心得獎勵](.project/reward.md)
 
 ## 討論
 - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/t/hellojs-tw/shared_invite/MjEyNDUyMTU4OTgzLTE0OTk4NTU5MzgtYTI5MDA1NzUxZg)
@@ -32,5 +34,6 @@
 
 ### 主辦單位
 - [Trunk-Studio](https://trunk-studio.com)
-- [BLOG](https://trunk-studio.com/blog)
+- [Trunk-Studio BLOG](https://trunk-studio.com/blog)
+- [HelloJS Blog](https://hellojs-tw.github.io/blog/)
 - [Facebook Page](https://www.facebook.com/trunk.studio.tw/)
