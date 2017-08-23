@@ -22,8 +22,8 @@
 
 ## 期末專案
 - [期末專案方向參考與小組名單](./project)
-- [HelloJS 模板](.project/template.md)
-- [專題競賽&心得獎勵](.project/reward.md)
+- [HelloJS 模板](./template)
+- [專題競賽&心得獎勵](./reward)
 
 ## 討論
 - Slack 入口：[hellojs-tw@Slack](https://join.slack.com/t/hellojs-tw/shared_invite/MjEyNDUyMTU4OTgzLTE0OTk4NTU5MzgtYTI5MDA1NzUxZg)
