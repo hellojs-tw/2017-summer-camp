@@ -11,7 +11,7 @@
 - [Week 5](./week5)
 - [Week 6](./week6)
 - [Week 7](./week7)
-- [Week 8（尚未開放）](./#!)
+- [Week 8（期末專案展示）](./week8)
 
 ## VM 目錄
 - [每週 VM 整理](./vm)
