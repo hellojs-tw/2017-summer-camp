@@ -67,6 +67,12 @@ slide: [吃貨地圖](./../slides/peyfinal.pptx)
 
 DEMO: [傳送門](http://hellojs.uranoni.com.tw/login)
 
+slide(PDF): [kapok-Fake IG](./../slides/kapok-Fake IG.pdf)
+
+slide(PPT): [kapok-Fake IG](./../slides/kapok-Fake IG.pptx)
+
+slide(KEY): [kapok-Fake IG](./../slides/kapok-Fake IG.key)
+
 
 
 ## 本週共筆
